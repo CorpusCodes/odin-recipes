@@ -1,1 +1,1 @@
-HTML and CSS Recipes Website
+HTML and CSS Recipes Website from The Odin Project
